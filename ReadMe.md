@@ -9,10 +9,6 @@
 * Go to localhost:8080/
 * Put specific end_points besides the port accordingly to run the project to access and modify the data
 # Dependencies
-## Validation
-* Bean Validation with Hibernate validator.
-## H2 Database
-* Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application.
 ## Spring Web
 * Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
 ## Spring Boot DevTools
